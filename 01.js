@@ -1,7 +1,7 @@
-import barbaCore from "https://cdn.skypack.dev/@barba/core";
-import gsap from "https://cdn.skypack.dev/gsap";
+console.log(barba);
+//import gsap from "https://cdn.skypack.dev/gsap";
 
-barbaCore.init({
+/*barbaCore.init({
   transitions: [
     {
       leave(data) {
@@ -22,3 +22,4 @@ barbaCore.init({
     },
   ],
 });
+*/
