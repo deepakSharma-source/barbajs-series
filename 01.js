@@ -1,5 +1,8 @@
-console.log(barba);
+console.log("hi");
+//import lagrangeBarbaCore from 'https://cdn.skypack.dev/@lagrange/barba-core';
+//console.log(lagrangeBarbaCore);
 //import gsap from "https://cdn.skypack.dev/gsap";
+
 
 /*barbaCore.init({
   transitions: [
@@ -16,7 +19,7 @@ console.log(barba);
         data.current.container.remove();
         return gsap.from(data.next.container, {
           opacity: 0,
-          duration: 1, // Add duration for smoother transition
+          duration: 2, // Add duration for smoother transition
         });
       },
     },
